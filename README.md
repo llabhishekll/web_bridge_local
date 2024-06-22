@@ -1,6 +1,6 @@
 # Web Bridge Local
 
-This repository contains supporting code, for a comprehensive understanding and additional details, refer main repository [here](https://github.com/llabhishekll/tortoisebot_docker).
+This repository contains supporting code, for a comprehensive understanding and additional details, refer [here](https://github.com/llabhishekll/tortoisebot_docker).
 
 ## Structure
 
